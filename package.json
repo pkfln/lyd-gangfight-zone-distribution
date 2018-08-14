@@ -1,0 +1,24 @@
+{
+  "name": "lyd-gangfight-zone-distribution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkfln/lyd-gangfight-zone-distribution.git"
+  },
+  "author": "pkfln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkfln/lyd-gangfight-zone-distribution/issues"
+  },
+  "homepage": "https://github.com/pkfln/lyd-gangfight-zone-distribution#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
